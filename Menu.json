@@ -123,55 +123,55 @@
 ],
 "Extras":[
  {
-  "nombre": "Ensalada Cesar"
-   "descripcion":"Lechuga, pollo, queso parmesano, crutones y aderezo cesar"
-   "precio":50
-   "imagen": "img/ensalada.jpg"
+  "nombre": "Ensalada Cesar",
+   "descripcion":"Lechuga, pollo, queso parmesano, crutones y aderezo cesar",
+   "precio":50,
+   "imagen": "img/ensalada.jpg",
  }
 ]
 {
 "Bebidas":[
   {
-   "nombre": "Coca"
-   "descripcion":"Lata de refresco de cola"
-   "precio":20
-   "imagen": "img/coca.jpg"
+   "nombre": "Coca",
+   "descripcion":"Lata de refresco de cola",
+   "precio":20,
+   "imagen": "img/coca.jpg",
   },
   {
-   "nombre": "Manzanita"
-   "descripcion":"Lata de refresco de manzanita"
-   "precio":20
-   "imagen": "img/manzanita.jpg"
+   "nombre": "Manzanita",
+   "descripcion":"Lata de refresco de manzanita",
+   "precio":20,
+   "imagen": "img/manzanita.jpg",
   },
   {
-   "nombre": "Agua de limon"
-   "descripcion":"Vaso de limonada"
-   "precio":30
-   "imagen": "img/limon.jpg"
+   "nombre": "Agua de limon",
+   "descripcion":"Vaso de limonada",
+   "precio":30,
+   "imagen": "img/limon.jpg",
   },
   {
-   "nombre": "Agua de jamaica"
-   "descripcion":"Vaso de agua de jamaica"
-   "precio":30
-   "imagen": "img/jamaica.jpg"
+   "nombre": "Agua de jamaica",
+   "descripcion":"Vaso de agua de jamaica",
+   "precio":30,
+   "imagen": "img/jamaica.jpg",
   },
   {
-   "nombre": "Sprite"
-   "descripcion":"Lata de refresco de sprite"
-   "precio":20
-   "imagen": "img/spripe.jpg"
+   "nombre": "Sprite",
+   "descripcion":"Lata de refresco de sprite",
+   "precio":20,
+   "imagen": "img/spripe.jpg",
   },
   {
-   "nombre": "Cafe"
-   "descripcion":"Taza de cafe"
-   "precio":50
-   "imagen": "img/cafe.jpg"
+   "nombre": "Cafe",
+   "descripcion":"Taza de cafe",
+   "precio":50,
+   "imagen": "img/cafe.jpg",
   },
   {
-   "nombre": "Malteada"
-   "descripcion":"Vaso de malteada de su preferencia"
-   "precio":30
-   "imagen": "img/malteada.jpg"
+   "nombre": "Malteada",
+   "descripcion":"Vaso de malteada de su preferencia",
+   "precio":30,
+   "imagen": "img/malteada.jpg",
   }
   ]
 }
