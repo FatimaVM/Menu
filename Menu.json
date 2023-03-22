@@ -153,6 +153,18 @@
    "precio":20
    "imagen": "img/spripe.jpg"
   },
+  {
+   "nombre": "Cafe"
+   "descripcion":"Taza de cafe"
+   "precio":50
+   "imagen": "img/cafe.jpg"
+  },
+  {
+   "nombre": "Malteada"
+   "descripcion":"Vaso de malteada de su preferencia"
+   "precio":30
+   "imagen": "img/malteada.jpg"
+  }
   ]
 }
 }
