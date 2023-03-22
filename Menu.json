@@ -121,6 +121,14 @@
   "imagen":"img/hotcakes.jpg"
 }
 ],
+"Extras":[
+ {
+  "nombre": "Ensalada Cesar"
+   "descripcion":"Lechuga, pollo, queso parmesano, crutones y aderezo cesar"
+   "precio":50
+   "imagen": "img/ensalada.jpg"
+ }
+]
 {
 "Bebidas":[
   {
